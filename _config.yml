@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-AU"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Marcus5502"
 title_separator          : "-"
 name                     : &name "Marcus Skurray"
@@ -26,7 +26,7 @@ author:
   avatar           : "barcelona.JPEG"
   name             : "Marcus Skurray"
   pronouns         : "He/Him"  
-  bio              : "Undergraduate student in the bachelor of psychology, majoring in cognitive neuroscience"
+  bio              : "Undergraduate student, World Traveller, Lover of Neuroscience and Psychology"
   location         : "Earth"
   employer         : "Adelaide university"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
