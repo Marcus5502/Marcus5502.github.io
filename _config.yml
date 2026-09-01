@@ -23,7 +23,7 @@ repository               : "marcus5502/marcus5502.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "barcelona.jpg"
+  avatar           : barcelona.jpg
   name             : "Marcus Skurray"
   pronouns         : "He/Him"  
   bio              : "Undergraduate student in the bachelor of psychology, majoring in cognitive neuroscience"
