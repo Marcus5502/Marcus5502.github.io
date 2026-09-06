@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello!! My name is Marcus Skurray. I am an undergraduate psychology student, majoring in Cognitive Neuroscience at Adelaide University. I am particularly interested in the neuropsycholgical connection of diseases, intenting to pursue a career in neuropsychology, in either clinically or research enviroment. Outside of university, i am a disability support worker, world traveller - specifically solo backpacker (32 countries and counting), film photographer, and oil-painter.
+Hello!! My name is Marcus Skurray. I am an undergraduate psychology student, majoring in Cognitive Neuroscience at Adelaide University. I am particularly interested in the neuropsycholgical connection of diseases, intending to pursue a career in neuropsychology, either clinical or research. Outside of university, i am a disability support worker, world traveller - specifically solo backpacker (32 countries and counting), film photographer, and oil-painter.
 
 In 2026, i am primarily looking to gain practical experience in neuroscience, research, and psychology.
 
@@ -19,17 +19,17 @@ Film Photos from my most recent backpacking journey
 
 Tattooed by Apo Whang Od
 
-![Editing a Markdown file for a talk](/images\apowang.jpg)
-
+![Tattooed by Apo Whang Od](/images\apowang.jpg)
+# this code above is in markdown, a coding language
 Sunsets in Port Barton, 
 
-![Editing a Markdown file for a talk](/images\blueysunset.jpg)
+<img src="/images/blueysunset.jpg" style="max-height: 550px; width: auto; max-width: 100%; display: block; margin: 0 auto;">
 
+# where this one, is in html - this is less simplistic, but allows for more coding cool stuff.
 Boat Expedition (Coron -> El Nido)
 
-![Editing a Markdown file for a talk](/images\boatpic.jpg)
+<img src="/images/boatpic.jpg" style="max-height: 550px; width: auto; max-width: 100%; display: block; margin: 0 auto;">
 
 Water Buffalo along a trek in Nong Khiaw, Laos
 
-![Editing a Markdown file for a talk](/images\waterbuff.jpg)
-
+<img src="/images/waterbuff.jpg" style="max-height: 550px; width: auto; max-width: 100%; display: block; margin: 0 auto;">
