@@ -11,7 +11,7 @@ Hello!! My name is Marcus Skurray. I am an undergraduate psychology student, maj
 
 In 2026, i am primarily looking to gain practical experience in neuroscience, research, and psychology.
 
-I’ve also put together [a short video from the trip](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+I’ve also put together [a short travel video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&autoplay=1).
 
 
 Film Photos from my most recent backpacking journey
