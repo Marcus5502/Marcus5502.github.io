@@ -24,7 +24,7 @@ Tattooed by Apo Whang Od - She is 109!
 
 <img src="/images/apowang.jpg" style="max-height: 650px; width: auto; max-width: 100%;">
 
-</div>
+
 Sunsets in Port Barton
 
 <img src="/images/blueysunset.jpg" style="max-height: 700px; width: auto; max-width: 100%;">
