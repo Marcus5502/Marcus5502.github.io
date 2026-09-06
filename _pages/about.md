@@ -16,26 +16,28 @@ I’ve also put together [a short travel video](https://www.youtube.com/watch?v=
 
 Film Photos from my most recent backpacking journey
 ------ 
+<div style="text-align: center;">
+Tattooed by Apo Whang Od - She is 109!
+</div>
+<!-- this code above is in markdown, a coding language -->
 
+![Tattooed by Apo Whang Od](/images\apowang.jpg)
 
 <div style="text-align: center;">
-
-Tattooed by Apo Whang Od - She is 109!
-
-<img src="/images/apowang.jpg" style="max-height: 650px; width: auto; max-width: 100%;">
-
-
 Sunsets in Port Barton
+</div>
 
-<img src="/images/blueysunset.jpg" style="max-height: 700px; width: auto; max-width: 100%;">
+<img src="/images/blueysunset.jpg" style="max-height: 700px; width: auto; max-width: 100%; display: block; margin: 0 auto;">
 
 <!-- where this one, is in html - this is less simplistic, but allows for more coding cool stuff. -->
+<div style="text-align: center;">
 Boat Expedition (Coron -> El Nido)
+</div>
 
 <img src="/images/boatpic.jpg" style="max-height: 700px; width: auto; max-width: 100%; display: block; margin: 0 auto;">
+<div style="text-align: center;">
 
  Water Buffalo along a trek in Nong Khiaw, Laos
+</div>
 
 <img src="/images/waterbuff.jpg" style="max-height: 700px; width: auto; max-width: 100%; display: block; margin: 0 auto;">
-
-</div>
