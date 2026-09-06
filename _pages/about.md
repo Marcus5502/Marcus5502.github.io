@@ -17,14 +17,17 @@ I’ve also put together [a short travel video](https://www.youtube.com/watch?v=
 Film Photos from my most recent backpacking journey
 ------ 
 
+
+<div style="text-align: center;">
+
 Tattooed by Apo Whang Od - She is 109!
-<!-- this code above is in markdown, a coding language -->
 
-![Tattooed by Apo Whang Od](/images\apowang.jpg)
+<img src="/images/apowang.jpg" style="max-height: 650px; width: auto; max-width: 100%;">
 
-Sunsets in Port Barton 
+</div>
+Sunsets in Port Barton
 
-<img src="/images/blueysunset.jpg" style="max-height: 700px; width: auto; max-width: 100%; display: block; margin: 0 auto;">
+<img src="/images/blueysunset.jpg" style="max-height: 700px; width: auto; max-width: 100%;">
 
 <!-- where this one, is in html - this is less simplistic, but allows for more coding cool stuff. -->
 Boat Expedition (Coron -> El Nido)
@@ -34,3 +37,5 @@ Boat Expedition (Coron -> El Nido)
  Water Buffalo along a trek in Nong Khiaw, Laos
 
 <img src="/images/waterbuff.jpg" style="max-height: 700px; width: auto; max-width: 100%; display: block; margin: 0 auto;">
+
+</div>
