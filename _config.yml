@@ -27,7 +27,7 @@ author:
   name             : "Marcus Skurray"
   pronouns         : "He/Him"  
   bio              : "Undergraduate student, World Traveller, Lover of Neuroscience and Psychology"
-  location         : "Earth"
+  location         : "Earth... its a secret"
   employer         : "Adelaide university"
   uri              : # URL
   email            : "mskurray5@gmail.com" 
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
